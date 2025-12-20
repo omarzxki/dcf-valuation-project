@@ -22,5 +22,11 @@ listed company, using realistic assumptions and professional modeling standards.
 - Excel (financial model)
 - Python / R (optional for analysis & visualization)
 
+## Key Assumptions (Draft)
+- Revenue growth driven by brand strength and global luxury demand
+- Stable operating margins reflecting pricing power
+- Capital expenditures aligned with historical averages
+- Terminal growth rate consistent with long-term global GDP
+
 ## Status
-In progress
+**IN PROGRESS**
