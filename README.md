@@ -1,4 +1,4 @@
-# DCF Valuation – Public Company
+# DCF Valuation – Netflix
 
 This project presents a discounted cash flow (DCF) valuation of a publicly
 listed company, using realistic assumptions and professional modeling standards.
