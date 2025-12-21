@@ -1,4 +1,4 @@
-# DCF Valuation – LVMH
+# DCF Valuation – Public Company
 
 This project presents a discounted cash flow (DCF) valuation of a publicly
 listed company, using realistic assumptions and professional modeling standards.
@@ -7,9 +7,6 @@ listed company, using realistic assumptions and professional modeling standards.
 - Build a structured DCF model
 - Estimate intrinsic value using fundamental drivers
 - Perform sensitivity analysis on key assumptions
-- Apply valuation techniques to a diversified luxury group (LVMH)
-- Analyze segment-level performance and value drivers
-
 
 ## Methodology
 - Historical financial statement analysis
@@ -23,10 +20,7 @@ listed company, using realistic assumptions and professional modeling standards.
 - Python / R (optional for analysis & visualization)
 
 ## Key Assumptions (Draft)
-- Revenue growth driven by brand strength and global luxury demand
-- Stable operating margins reflecting pricing power
-- Capital expenditures aligned with historical averages
-- Terminal growth rate consistent with long-term global GDP
+.
 
 ## Status
 **IN PROGRESS**
