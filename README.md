@@ -1,4 +1,4 @@
-# DCF Valuation – Netflix
+# DCF Valuation – Tesla
 
 This project presents a discounted cash flow (DCF) valuation of a publicly
 listed company, using realistic assumptions and professional modeling standards.
@@ -17,7 +17,7 @@ listed company, using realistic assumptions and professional modeling standards.
 
 ## Tools
 - Excel (financial model)
-- Python / R (optional for analysis & visualization)
+- Various websites for the financial data
 
 ## Key Assumptions (Draft)
 .
